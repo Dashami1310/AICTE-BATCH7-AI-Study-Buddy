@@ -30,6 +30,4 @@ The system processes the input and generates educational content such as explana
 
 This project demonstrates how intelligent learning tools can support students in understanding concepts, reducing study time, and improving revision through automated educational assistance.
 
-## Author
 
-Your Name
